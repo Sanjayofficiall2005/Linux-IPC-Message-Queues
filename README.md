@@ -87,7 +87,8 @@ int main()
 ```
 
 ## OUTPUT
-![o1](<Screenshot from 2024-10-01 20-09-58.png>)
+![Screenshot 2024-10-09 213717](https://github.com/user-attachments/assets/c95a26cf-9160-47f8-beea-3d8db097e753)
+
 
 
 
