@@ -25,6 +25,7 @@ Execute the C Program for the desired output.
 DEVELOPED BY  : SANJAY M
 REGISTER NO   : 212223230187
 ```
+```python
 #include <stdio.h> 
 #include <sys/ipc.h> 
 #include <sys/msg.h> 
