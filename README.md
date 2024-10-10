@@ -21,7 +21,7 @@ Execute the C Program for the desired output.
 # PROGRAM:
 
 ## C program that receives a message from message queue and display them
-```
+```python
 DEVELOPED BY  : SANJAY M
 REGISTER NO   : 212223230187
 ```
@@ -54,7 +54,7 @@ int main()
 } 
 
 ```
-```
+```python
 #include <stdio.h>
 #include <sys/ipc.h>
 #include <sys/msg.h>
